@@ -6,6 +6,7 @@
 //      children: []
 //}
 
+
 function updateStructure(rec1,rec2){
 	//write your code
 }
